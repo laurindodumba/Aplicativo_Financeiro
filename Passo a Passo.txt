@@ -1,0 +1,5 @@
+1 - Criar o ambiente virtual -> virtualenv
+2 - Instalar as depend~encias 
+3 - Filtrar as dependências instaladas par o arquivo txt -> pip freeze > requirements.txt
+4 - Criar uma imagem Docker e depois buildar esta mesma imagem  para o Docker DeskTop -> docker build -t "nome da imagem" .
+5 - Docker Compose
